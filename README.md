@@ -8,3 +8,4 @@ Applied:
 - DAX for calculated metrics
 - Visual design for clarity and stakeholder impact
 The White Hanging Heart T-Light Holder led in both sales volume (3.2K units) and revenue (138K), shaping key inventory and marketing decisions.
+link - https://www.linkedin.com/posts/asmit-kansal-5628a7252_dataanalytics-datavisualization-datacleaning-activity-7350238689597247488-EwqJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5snFoB891Bp6NpF35y47y5qZph4fh1bmo
